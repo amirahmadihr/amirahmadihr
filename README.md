@@ -11,8 +11,8 @@
 > - 📫 and How to reach me -> 09120780118 in whatsApp
 
 
-> you also can see my resume in here : 
-> https://linkedin.com/in/amirahmadihr
+#### you also can see my resume in here : 
+#### https://linkedin.com/in/amirahmadihr
 <!--
 **amirahmadihr/amirahmadihr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
